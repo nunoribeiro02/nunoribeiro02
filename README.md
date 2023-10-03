@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  - Studied Computer Science and Engineering (LEIC) at Instituto Superior Técnico
+  - Currently Studying for my Master's Degree Softare Engineering~& Information Systems at Instituto Superior Técnico
 <!--
 **nunoribeiro02/nunoribeiro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
