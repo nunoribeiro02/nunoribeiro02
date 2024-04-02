@@ -4,7 +4,9 @@
   - Currently Studying for my Master's Degree in Softare Engineering & Information Systems at Instituto Superior Técnico
   - Learning Web Dev in my free time
 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoribeiro02)](https://github.com/nunoribeiro02/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nunoribeiro02)](https://git.io/streak-stats)
 
 <!--
 **nunoribeiro02/nunoribeiro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
